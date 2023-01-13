@@ -1,21 +1,3 @@
-//
-// var arrayOfBtns=["green","red","yellow","blue"];
-// var x=1;
-// var randomNo;
-// for(var i=0;x===1;i++)
-// {
-// randomNo=Math.random();
-// randomNo= Math.floor(randomNo*4);
-// $("body").keydown(function(){
-//   $("." + arrayOfBtns[randomNo]).addClass("pressed");
-//   setTimeout(function(){
-//   $("." + arrayOfBtns[randomNo]).removeClass("pressed");
-//   },100);
-//
-//
-// });
-// x=0;
-// }
 var arrayOfBtns=["green","red","yellow","blue"];
 
       var randomNo;
@@ -113,7 +95,6 @@ var arrayOfBtns=["green","red","yellow","blue"];
         }
         else{
           playmusic("wrong");
-          $("body").addClassaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
         // console.log("G " +  lastIndexGenerated +arrayGenerated[lastIndexGenerated]);
         // console.log("p " +  lastindexPressed + arrayClicked[lastindexPressed]);
            // console.log("try next time");
